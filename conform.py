@@ -43,5 +43,5 @@ def pleaseConform(caps):
                    'through', t[1], 'flip your caps!')
                 
             
-pleaseConform(caps)
-##pleaseConform(cap2)
+def pleaseConformOnepass():
+    pass
