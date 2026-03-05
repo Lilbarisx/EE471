@@ -1,4 +1,5 @@
 # Senior Dev: Barış
+# Feature Dev: Barış
 
 caps = ['F', 'F', 'B', 'B', 'B', 'F', 'B',
         'B', 'B', 'F', 'F', 'B', 'F' ]
@@ -43,5 +44,5 @@ def pleaseConform(caps):
                    'through', t[1], 'flip your caps!')
                 
             
-pleaseConform(caps)
-##pleaseConform(cap2)
+def pleaseConformOnepass():
+    pass
