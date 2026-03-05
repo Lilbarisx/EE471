@@ -1,4 +1,4 @@
-# This script is written by Barış
+# Feature Dev: Barış
 
 caps = ['F', 'F', 'B', 'B', 'B', 'F', 'B',
         'B', 'B', 'F', 'F', 'B', 'F' ]
